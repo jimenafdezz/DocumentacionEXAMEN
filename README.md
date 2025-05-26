@@ -34,7 +34,7 @@ Para instalar y configurar la aplicación en tu entorno local, sigue los siguien
    
 2. compila y ejecuta el proyecto
 
-## 4.Uso
+## Uso
 
 El sistema veterinario incluyte las siguientes funcionalidades principales:
 
@@ -68,7 +68,7 @@ Lo representamos a través del siguiente diagrma de casos de uso:
 !(imagen)
 
 
-## 5.Contribución
+## Contribución
 
 ¿Quieres colaborar en el desarrollo?
 
@@ -78,7 +78,7 @@ Lo representamos a través del siguiente diagrma de casos de uso:
 4. Haz push a la rama(git push origin feature/nueva-funcionalidad).
 5. Abre un pull request su revisión.
 
-## 6.Subvención
+## Subvención
 
 Este proyecto está subvencionado por el [Gobierno de España](https://www.lamoncloa.gob.es/Paginas/index.aspx)
 ------------------------------------------------------------------------------------------------------------------------
