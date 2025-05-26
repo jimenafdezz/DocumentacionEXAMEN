@@ -73,9 +73,9 @@ Lo representamos a través del siguiente diagrma de casos de uso:
 ¿Quieres colaborar en el desarrollo?
 
 1. Haz un fork del repositorio
-2. Crea una nueva rama (git checkout -b feature/tu-mejora).
-3. Realiza tus cambios y haz commit (git commit -am "Agrega nueva funcionalidad").
-4. Haz push a la rama(git push origin feature/nueva-funcionalidad).
+2. Crea una nueva rama ```git checkout -b feature/tu-mejora```
+3. Realiza tus cambios y haz commit ```git commit -am "Agrega nueva funcionalidad```
+4. Haz push a la rama ```git push origin feature/nueva-funcionalidad```
 5. Abre un pull request su revisión.
 
 ## Subvención
