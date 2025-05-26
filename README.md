@@ -49,9 +49,9 @@ Para utilizar la aplicación, sigues las instrucciones proporcionales en la inte
 
 A continuación se detalla la función dentro del sistema de cada uno de los usuarios:
 
-| **Usuario** | **Funcionalidad** |
+| **Usuario**        **Funcionalidad** |
 -------------------------------------------------------------
-Paciente         Solicita citas, accede a su historial, contacta con el médico
+Paciente             Solicita citas, accede a su historial, contacta con el médico
 
 ---------------------------------------------------------------
 
