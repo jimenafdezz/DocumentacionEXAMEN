@@ -51,4 +51,8 @@ A continuación se detalla la función dentro del sistema de cada uno de los usu
 
 | **Usuario** | **Funcionalidad** |
 -------------------------------------------------------------
+Paciente         Solicita citas, accede a su historial, contacta con el médico
 
+---------------------------------------------------------------
+
+Veterinario 
