@@ -79,10 +79,10 @@ Lo representamos a través del siguiente diagrma de casos de uso:
 
 **Subvención**
 
-Este proyecto está subvencionado por el (Gobierno de España[https://www.lamoncloa.gob.es/Paginas/index.aspx]
+Este proyecto está subvencionado por el (Gobierno de España)[https://www.lamoncloa.gob.es/Paginas/index.aspx]
 ------------------------------------------------------------------------------------------------------------------------
 
-Para obtener mas información sobre la aplicación y su funcionamiento interno, consulta nuestra (documentación técnica[https://document360.com/es/blog/documentacion-tecnica/]
+Para obtener mas información sobre la aplicación y su funcionamiento interno, consulta nuestra (documentación técnica)[https://document360.com/es/blog/documentacion-tecnica/]
 
 Otros organismos colaboradores:
 
