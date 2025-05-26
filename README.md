@@ -32,3 +32,23 @@ Para instalar y configurar la aplicación en tu entorno local, sigue los siguien
 2. abre el proyecto en tu entorno de desarollo preferido (VsCode, IntelliJ...)
    
 3. compila y ejecuta el proyecto
+
+**Uso**
+
+El sistema veterinario incluyte las siguientes funcionalidades principales:
+
+  -Solicitud y gestión de citas
+  -Acceso y consulta del historial clínico
+  -Comunicación entre pacientes y profesionales
+  -Gestión de recetas electrónicas
+  -Administración del personal
+  -Revisión de informes
+  -Gestión de facturas
+
+Para utilizar la aplicación, sigues las instrucciones proporcionales en la interfaz de usuario o consulta la documentación del usuario en el repositorio
+
+A continuación se detalla la función dentro del sistema de cada uno de los usuarios:
+
+| **Usuario** | **Funcionalidad** |
+-------------------------------------------------------------
+
