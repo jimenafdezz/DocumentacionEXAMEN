@@ -1,14 +1,14 @@
 # Documentacion de la Aplicación de Gestión Veterinaria
 
-Indice
+## 1.Indice
 
 - Documentación de la Aplicación de Gestión Veterinaria
 
-  - indice
+  - [1.indice](#1-indice)
     
-  - introduccion
+  - [2.introduccion](2#-Introduccion)
  
-  - Instalacion
+  - [3.Instalacion](3#instalación)
  
   - Uso
  
@@ -18,11 +18,11 @@ Indice
  
     
    
-**Introduccion**
+## 2.Introduccion
 
 El sistema de Gestión Veterinaria desarrollado por el alumnado del **Ies miguel herrero pereda** permite a pacientes, médicos y administradores gestionar las operaciones básicas de un centro veterinario de forma segura y eficiente.
 
-**Instalacion**
+## 3. Instalacion
 
 Para instalar y configurar la aplicación en tu entorno local, sigue los siguientes pasos:
 1. clona el repositorio desde github:
@@ -86,5 +86,5 @@ Para obtener mas información sobre la aplicación y su funcionamiento interno, 
 
 Otros organismos colaboradores:
 
-(![ies_miguel_herrero_pereda_cover](https://github.com/user-attachments/assets/33bc881b-d175-4336-8a64-326024d3d31f)
+![ies_miguel_herrero_pereda_cover](https://github.com/user-attachments/assets/33bc881b-d175-4336-8a64-326024d3d31f)
 
