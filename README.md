@@ -2,9 +2,9 @@
 
 Indice
 
-1.1 Documentación de la Aplicación de Gestión Veterinaria
-
-1.2indice
+- Documentación de la Aplicación de Gestión Veterinaria
+  indice
+  introduccion
    
 # Introduccion
 
