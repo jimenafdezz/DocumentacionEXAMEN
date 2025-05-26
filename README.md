@@ -27,5 +27,6 @@ El sistema de Gestión Veterinaria desarrollado por el alumnado del **Ies miguel
 Para instalar y configurar la aplicación en tu entorno local, sigue los siguientes pasos:
 1. clona el repositorio desde github:
    
-   \\
-   git clone https:// github.com/tu-usuario/nombreAlumnoRETO.git \\
+   //
+   git clone https:// github.com/tu-usuario/nombreAlumnoRETO.git
+   //
