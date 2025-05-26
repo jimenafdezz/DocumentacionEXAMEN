@@ -4,8 +4,8 @@ Indice
 
 - Documentación de la Aplicación de Gestión Veterinaria
 
-  -- indice
-  introduccion
+  - indice
+  - introduccion
    
 # Introduccion
 
