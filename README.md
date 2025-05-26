@@ -49,10 +49,43 @@ Para utilizar la aplicación, sigues las instrucciones proporcionales en la inte
 
 A continuación se detalla la función dentro del sistema de cada uno de los usuarios:
 
- **Usuario**    ---    **Funcionalidad** 
+ **Usuario**             **Funcionalidad** 
 -------------------------------------------------------------
-Paciente       ---      Solicita citas, accede a su historial, contacta con el médico
+Paciente            Solicita citas, accede a su historial, contacta con el médico
 
 ---------------------------------------------------------------
 
-Veterinario 
+Veterinario                  Gestiona citas, consulta historiales, emite recetas
+
+------------------------------------------------------------------------------
+
+Administrador                   Administra personal, informes y facturación
+
+
+Lo representamos a través del siguiente diagrma de casos de uso:
+
+!(imagen)
+
+
+**Contribución**
+
+¿Quieres colaborar en el desarrollo?
+
+1. Haz un fork del repositorio
+2. Crea una nueva rama (git checkout -b feature/tu-mejora).
+3. Realiza tus cambios y haz commit (git commit -am "Agrega nueva funcionalidad").
+4. Haz push a la rama(git push origin feature/nueva-funcionalidad).
+5. Abre un pull request su revisión.
+
+**Subvención**
+
+Este proyecto está subvencionado por el (Gobierno de España[https://www.lamoncloa.gob.es/Paginas/index.aspx]
+------------------------------------------------------------------------------------------------------------------------
+
+Para obtener mas información sobre la aplicación y su funcionamiento interno, consulta nuestra (documentación técnica[https://document360.com/es/blog/documentacion-tecnica/]
+
+Otros organismos colaboradores:
+
+!([https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.educantabria.es%2Fweb%2Fies-miguel-herrero-pereda&psig=AOvVaw3g7mBpdNLLQUBrNkWMF2-O&ust=1748352762951000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLDX0tyfwY0DFQAAAAAdAAAAABAE]
+
+
