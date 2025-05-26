@@ -18,7 +18,12 @@ Indice
  
     
    
-# Introduccion
+**Introduccion**
 
-El sistema de Gestión Veterinaria desarrollado por el alumnado del **Ies miguel herrero pereda** 
+El sistema de Gestión Veterinaria desarrollado por el alumnado del **Ies miguel herrero pereda** permite a pacientes, médicos y administradores gestionar las operaciones básicas de un centro veterinario de forma segura y eficiente.
 
+**Instalacion**
+
+Para instalar y configurar la aplicación en tu entorno local, sigue los siguientes pasos:
+1. clona el repositorio desde github:
+   /git clone https:// github.com/tu-usuario/nombreAlumnoRETO.git\
