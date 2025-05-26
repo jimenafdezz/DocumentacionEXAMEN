@@ -86,6 +86,5 @@ Para obtener mas información sobre la aplicación y su funcionamiento interno, 
 
 Otros organismos colaboradores:
 
-![imagen](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.educantabria.es%2Fweb%2Fies-miguel-herrero-pereda&psig=AOvVaw3g7mBpdNLLQUBrNkWMF2-O&ust=1748352762951000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLDX0tyfwY0DFQAAAAAdAAAAABAE)
-
+(![ies_miguel_herrero_pereda_cover](https://github.com/user-attachments/assets/33bc881b-d175-4336-8a64-326024d3d31f)
 
