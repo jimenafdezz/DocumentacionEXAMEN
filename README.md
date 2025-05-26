@@ -38,13 +38,13 @@ Para instalar y configurar la aplicación en tu entorno local, sigue los siguien
 
 El sistema veterinario incluyte las siguientes funcionalidades principales:
 
-  -Solicitud y gestión de citas
-  -Acceso y consulta del historial clínico
-  -Comunicación entre pacientes y profesionales
-  -Gestión de recetas electrónicas
-  -Administración del personal
-  -Revisión de informes
-  -Gestión de facturas
+  - Solicitud y gestión de citas
+  - Acceso y consulta del historial clínico
+  - Comunicación entre pacientes y profesionales
+  - Gestión de recetas electrónicas
+  - Administración del personal
+  - Revisión de informes
+  - Gestión de facturas
 
 Para utilizar la aplicación, sigues las instrucciones proporcionales en la interfaz de usuario o consulta la documentación del usuario en el repositorio
 
@@ -52,15 +52,15 @@ A continuación se detalla la función dentro del sistema de cada uno de los usu
 
  **Usuario**             **Funcionalidad** 
 -------------------------------------------------------------
-Paciente            Solicita citas, accede a su historial, contacta con el médico
+Paciente                    Solicita citas, accede a su historial, contacta con el médico
 
 ---------------------------------------------------------------
 
-Veterinario                  Gestiona citas, consulta historiales, emite recetas
+Veterinario                                Gestiona citas, consulta historiales, emite recetas
 
 ------------------------------------------------------------------------------
 
-Administrador                   Administra personal, informes y facturación
+Administrador                           Administra personal, informes y facturación
 
 
 Lo representamos a través del siguiente diagrma de casos de uso:
