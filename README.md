@@ -10,11 +10,11 @@
  
   - [3.Instalacion](3#instalación)
  
-  - Uso
+  - [4.Uso](4.#Uso)
  
-  - contribución
+  - [5.contribución](5.#Contribucion)
  
-  - subvención
+  - [6.subvención](6#Subvencion)
  
     
    
@@ -26,14 +26,15 @@ El sistema de Gestión Veterinaria desarrollado por el alumnado del **Ies miguel
 
 Para instalar y configurar la aplicación en tu entorno local, sigue los siguientes pasos:
 1. clona el repositorio desde github:
-   
+```
    git clone https:// github.com/tu-usuario/nombreAlumnoRETO.git
+```
    
-2. abre el proyecto en tu entorno de desarollo preferido (VsCode, IntelliJ...)
+1. abre el proyecto en tu entorno de desarollo preferido (VsCode, IntelliJ...)
    
-3. compila y ejecuta el proyecto
+2. compila y ejecuta el proyecto
 
-**Uso**
+## 4.Uso
 
 El sistema veterinario incluyte las siguientes funcionalidades principales:
 
@@ -67,7 +68,7 @@ Lo representamos a través del siguiente diagrma de casos de uso:
 !(imagen)
 
 
-**Contribución**
+## 5.Contribución
 
 ¿Quieres colaborar en el desarrollo?
 
@@ -77,7 +78,7 @@ Lo representamos a través del siguiente diagrma de casos de uso:
 4. Haz push a la rama(git push origin feature/nueva-funcionalidad).
 5. Abre un pull request su revisión.
 
-**Subvención**
+## 6.Subvención
 
 Este proyecto está subvencionado por el [Gobierno de España](https://www.lamoncloa.gob.es/Paginas/index.aspx)
 ------------------------------------------------------------------------------------------------------------------------
