@@ -8,16 +8,17 @@ Indice
     
   - introduccion
  
-  - Intalacion
+  - Instalacion
  
-  - uso
+  - Uso
  
-  - contribucion
+  - contribución
  
-  - subvencion
+  - subvención
  
     
    
 # Introduccion
 
+El sistema de Gestión Veterinaria desarrollado por el alumnado del **Ies miguel herrero pereda** 
 
